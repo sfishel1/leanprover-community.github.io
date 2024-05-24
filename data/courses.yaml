@@ -17,7 +17,19 @@
 # a general subject (`mathematics`, `logic`, `computer science`).
 #
 # This list is not ordered. Add new entries wherever you want.
-
+- name: Mathematical Structures
+  instructor: Susanna Fishel
+  institution: Arizona State University
+  lean_version: 4
+  tags: ['mathematics','intro to proof']
+  summary: >
+    I did one Lean demonstration in class and four students signed up to meet 
+    with me once a week to work through the exercises in the book "The 
+    Mechanics of Proof," by Heather Macbeth. It was not for credit, the 
+    students represented a variety of abilities, and each seemed to get 
+    something  out of it. After two semesters of fairly regular meetings, 
+    we are in Chapter 4.  Two students and I plan to continue in Fall 2024.
+  year: 2023
 - name: Computergestütztes mathematisches Beweisen
   instructor: Ralf Gerkmann
   institution: Ludwig-Maximilians-Universität München
